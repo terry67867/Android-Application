@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlayingYut</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">윷을 던지세요</string>
+    <string name="btn_title">윷 던지기</string>
+
+</resources>
